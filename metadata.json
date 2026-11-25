@@ -1,0 +1,6 @@
+{
+  "name": "CinePhrase",
+  "description": "Turn English expressions learned from movies into a 30-second animated short film with natural English voice and burned-in subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
